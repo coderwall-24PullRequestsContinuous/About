@@ -1,4 +1,4 @@
-#### The 24PullRequests Continuous Syncs Achievement is awarded to registered Coderwall members that sent at least 24 pull requests during the first 24 days of December 2012.
+#### The 24PullRequests Continuous Syncs Achievement is awarded to registered Coderwall members that sent at least 24 pull requests during the first 24 days of December 2013.
 
 ## What is Coderwall
 
